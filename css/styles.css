@@ -257,8 +257,11 @@ footer {
     background-color: #fdb26c;
   }
   .footer {
-    background-color: #fdc764;
-}
+    background-color: #fdc764;    
+  }
+  .nav-logo:hover {
+  transform: scale(1.1);
+  }
 }
 
 
