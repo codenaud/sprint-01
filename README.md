@@ -1,6 +1,6 @@
 # IT Academy Specialization [ Sprint 01 ]
 
-[![IT Academy](assets/git-screenshot.png)](https://codenaud.github.io/itacademy/)
+[![IT Academy](assets/git-screenshot.png)](https://codenaud.github.io/sprint-01/)
 
 ## Description
 
